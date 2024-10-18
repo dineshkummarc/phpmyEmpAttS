@@ -1,1 +1,2 @@
-# SimpleEmpAttS_CI
+# phpmyEmpAttS
+formerly SimpleEmpAttS_CI
